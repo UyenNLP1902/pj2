@@ -35,6 +35,6 @@
         "venv.bak{,/**}",
         ".vscode{,/**}"
     ],
-    "appService.defaultWebAppToDeploy": "/subscriptions/19cca45d-02f4-4a37-abd8-5463fc082626/resourceGroups/uyennlp_group/providers/Microsoft.Web/sites/uyennlpwebapp2",
+    "appService.defaultWebAppToDeploy": "/subscriptions/19cca45d-02f4-4a37-abd8-5463fc082626/resourceGroups/udacity2/providers/Microsoft.Web/sites/uyennlpweb2",
     "appService.deploySubpath": "NeighborlyFrontEnd"
 }
