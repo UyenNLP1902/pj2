@@ -1,0 +1,20 @@
+{
+  "scriptFile": "__init__.py",
+  "bindings": [
+    {
+      "authLevel": "anonymous",
+      "type": "httpTrigger",
+      "direction": "in",
+      "name": "req",
+      "methods": [
+        "get"
+      ],
+      "connection":"mongodb://uyennlpdb:icExtCO3LeGmwZI9OWwwRjLHn4GrUEIRt42pmhJ9bgoeQGQEWIHXd0cQDqPNHMRo4xvbHeOYU6Z0ACDbbAiEPA==@uyennlpdb.mongo.cosmos.azure.com:10255/?ssl=true&retrywrites=false&replicaSet=globaldb&maxIdleTimeMS=120000&appName=@uyennlpdb@"
+    },
+    {
+      "type": "http",
+      "direction": "out",
+      "name": "$return"
+    }
+  ]
+}
