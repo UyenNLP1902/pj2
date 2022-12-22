@@ -5,7 +5,7 @@
       "type": "eventHubTrigger",
       "name": "event",
       "direction": "in",
-      "eventHubName": "neighborly-hub",
+      "eventHubName": "uyennlpeventhub2",
       "connection": "EventHubConnString"
     }
   ]
